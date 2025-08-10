@@ -52,7 +52,7 @@ Using **Power BI**, I built an end-to-end HR analytics dashboard, integrated **c
 ---
 
 ## 📊 Dashboard Preview
-![HR Analytics Dashboard](PowerBI_project_HR_Analytics.png)
+![HR Analytics Dashboard](PowerBI_project_HR_Analytics.pdf)
 
 ---
 
